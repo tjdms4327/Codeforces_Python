@@ -2,7 +2,6 @@
 
 ### Unsolved
 - C. Good Prefixes
-- D. Manhattan Circle
 - E. Secret Box
 - F. Final Boss
 - G. D-Function
