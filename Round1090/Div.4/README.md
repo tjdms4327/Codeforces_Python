@@ -1,7 +1,6 @@
 # [Round 1090](https://codeforces.com/contest/2218)
 
 ### Unsolved
-- C. The 67th Permutation Problem
 - D. The 67th OEIS Problem
 - E. The 67th XOR Problem
 - F. The 67th Tree Problem
